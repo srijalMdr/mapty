@@ -318,5 +318,5 @@ class App {
 }
 
 const app = new App();
-//app.reset() to reset
+app.reset(); //to reset
 // app._getPosition();
